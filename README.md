@@ -1,0 +1,1 @@
+# twrp_device_lenovo_TB9707F
