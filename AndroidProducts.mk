@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_TB-9707F.mk
+    $(LOCAL_DIR)/twrp_TB9707F.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_TB-9707F-user \
-    twrp_TB-9707F-userdebug \
-    twrp_TB-9707F-eng
+    twrp_TB9707F-user \
+    twrp_TB9707F-userdebug \
+    twrp_TB9707F-eng

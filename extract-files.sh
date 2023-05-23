@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=TB-9707F
+DEVICE=TB9707F
 VENDOR=lenovo
 
 # Load extract_utils and do some sanity checks

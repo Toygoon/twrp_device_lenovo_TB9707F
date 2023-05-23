@@ -1,4 +1,4 @@
-# Android device tree for Lenovo Lenovo TB-9707F (TB-9707F)
+# Android device tree for Lenovo Lenovo TB9707F (TB9707F)
 
 ```
 #

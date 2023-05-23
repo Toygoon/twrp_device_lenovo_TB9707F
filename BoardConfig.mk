@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/lenovo/TB-9707F
+DEVICE_PATH := device/lenovo/TB9707F
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -58,8 +58,8 @@ BOARD_MKBOOTIMG_ARGS += --tags_offset $(BOARD_KERNEL_TAGS_OFFSET)
 BOARD_KERNEL_IMAGE_NAME := Image
 BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 BOARD_KERNEL_SEPARATED_DTBO := true
-TARGET_KERNEL_CONFIG := TB-9707F_defconfig
-TARGET_KERNEL_SOURCE := kernel/lenovo/TB-9707F
+TARGET_KERNEL_CONFIG := TB9707F_defconfig
+TARGET_KERNEL_SOURCE := kernel/lenovo/TB9707F
 
 # Kernel - prebuilt
 TARGET_FORCE_PREBUILT_KERNEL := true
