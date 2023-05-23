@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_TB-9707F.mk
+    $(LOCAL_DIR)/twrp_TB-9707F.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_TB-9707F-user \
-    omni_TB-9707F-userdebug \
-    omni_TB-9707F-eng
+    twrp_TB-9707F-user \
+    twrp_TB-9707F-userdebug \
+    twrp_TB-9707F-eng

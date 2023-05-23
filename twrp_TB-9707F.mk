@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/lenovo/TB-9707F/device.mk)
 
 PRODUCT_DEVICE := TB-9707F
-PRODUCT_NAME := omni_TB-9707F
+PRODUCT_NAME := twrp_TB-9707F
 PRODUCT_BRAND := Lenovo
 PRODUCT_MODEL := Lenovo TB-9707F
 PRODUCT_MANUFACTURER := lenovo
